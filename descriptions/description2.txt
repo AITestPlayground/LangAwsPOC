@@ -1,0 +1,12 @@
+User B
+Location: London, UK
+Credit Limit: £5,000
+Credit Score: 650
+Declared Income: £28,000
+Monthly Budget: £1,200
+Current Products: Current Account, Personal Loan
+
+Description: User B, located in London, has a credit limit of £5,000 and a fair credit score of 650. With a declared income of £28,000 and a monthly budget of £1,200, they are currently managing a current account and a personal loan. 
+
+Optional:
+. According to this information, the user may be looking for products that assist in improving their credit score and managing their debt more effectively. Options such as a credit-building credit card or debt consolidation loans could be beneficial.

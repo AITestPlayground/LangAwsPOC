@@ -1,0 +1,12 @@
+User A
+Location: Manchester, UK
+Credit Limit: £16,000
+Credit Score: 781
+Declared Income: £40,000
+Monthly Budget: £1,600
+Current Products: Standard Current Account, Life Insurance
+
+Description: User A, based in Manchester, has a credit limit of £16,000 and an excellent credit score of 781. With a declared income of £40,000 and a monthly budget of £1,600, they are currently using a standard current account and life insurance.
+
+Optional:
+According to this information, the user is looking for products that can help them maximize their savings and investments, as they likely have surplus income each month. They may benefit from high-interest savings accounts or investment products to grow their wealth.
